@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-gpgpu-gpupio
 excerpt: ''
 date: 2016-03-12
-venue: "GPGPU '16, The 9th Annual Workshop on General Purpose Processing Using Graphics Processing Unit, 2016"
+venue: "GPGPU '16, The 9th Annual Workshop on General Purpose Processing Using Graphics Processing Unit"
 paperurl: 'https://liorze.github.io/files/gpupio-gpgpu16.pdf'
 authors: Lior Zeno, Avi Mendelson, Mark Silberstein
 ---
