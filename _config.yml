@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lior Zeno"
 title_separator          : "-"
 name                     : &name "Lior Zeno"
-description              : &description "personal description"
+description              : &description "MSc student @ EE, Technion"
 url                      : https://liorze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liorze/liorze.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lior Zeno"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MSc student @ EE, Technion"
   location         : "Israel"
   employer         :
   googlescholar    : "http://scholar.google.com/citations?user=EMTNeXYAAAAJ&hl=en"
